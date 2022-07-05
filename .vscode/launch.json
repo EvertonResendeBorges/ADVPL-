@@ -1,0 +1,27 @@
+{
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"type": "totvs_language_debug",
+			"request": "launch",
+			"name": "TOTVS Language Debug",
+			"program": "${command:AskForProgramName}",
+			"cwb": "${workspaceFolder}",
+			"smartclientBin": "C:\\LOBOGUARA\\Protheus\\Protheus\\bin\\Smartclient\\smartclient.exe",
+			"isMultiSession": true,
+			"enableTableSync": true
+		}
+	],
+	"lastPrograms": [
+		{
+			"label": "u_Area_do_Circulo"
+		},
+		{
+			"label": "u_Soma_Simples"
+		},
+		{
+			"label": "u_Produto"
+		}
+	],
+	"lastProgramExecuted": "u_Produto"
+}
